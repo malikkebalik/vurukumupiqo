@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vurukumupiqo.pages.dev/sitemap.xml
